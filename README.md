@@ -4,7 +4,7 @@
 A 5x5 fully functional Chess Game on Arduino Uno, using only 2KB or RAM.
 
 ## Usage
-For anyone bored and passionate enough to go through it:
+For anyone bored and passionate enough to go through with it:
 - refer to the **Hardware Design** section: gather all necessary components and connect them as shown in the diagram
 - download the source code from the **Download** section at this [link](https://ocw.cs.pub.ro/courses/pm/prj2023/drtranca/mini-chess)
 - install the [Arduino IDE](https://www.arduino.cc/en/software)
