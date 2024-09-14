@@ -13,7 +13,7 @@ For anyone bored and passionate enough to go through it:
 - Start playing using the buttons
 
 ## Documentation and source code
-**[Open CourseWare](https://ocw.cs.pub.ro/courses/pm/prj2023/drtranca/mini-chess).** (my University's website)
+**[Open CourseWare](https://ocw.cs.pub.ro/courses/pm/prj2023/drtranca/mini-chess)** (my University's website).
 
 ## Quick Demo
 Please see `MiniChess_demo.mp4`
